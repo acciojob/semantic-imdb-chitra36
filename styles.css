@@ -1,10 +1,19 @@
 
 /* Your CSS Code here. */
-  #quote{
+   #quote{
 
             font-style: oblique;
             font-size: 20px;
             text-align: center;
 
             color: brown;
+        }
+        nav#nav-actor{
+            print-color-adjust: brown;
+            text-shadow: 2px;
+            
+        }
+        nav#nav-quote{
+            print-color-adjust: brown;
+            text-shadow: 2px;
         }
