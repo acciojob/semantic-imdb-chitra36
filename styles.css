@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+  #quote{
+
+            font-style: oblique;
+            font-size: 20px;
+            text-align: center;
+
+            color: brown;
+        }
